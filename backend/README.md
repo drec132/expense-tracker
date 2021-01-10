@@ -1,5 +1,3 @@
-# react_fullstack
-
 ## Firing up the backend
 - npm install 
 - node server.js
