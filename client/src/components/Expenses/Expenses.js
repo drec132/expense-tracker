@@ -18,7 +18,7 @@ export default function Expenses() {
             setExpenses(data);
         }
         getExpenses();
-    }, [])
+    }, [expenses])
 
     const [selectedDate, setSelectedDate] = useState(new Date());
 
