@@ -7,9 +7,8 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mongodb": "^3.6.3",
-    "mongoose": "^5.11.10"
+    "mongoose": "^5.13.13"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
